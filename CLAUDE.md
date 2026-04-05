@@ -32,7 +32,7 @@ The "required" workflows live here, sourced from the `fluffle`.
 
 ## What is shared from HERE
 
-- Required workflows -- [.github/workflows/](Mimis-Gildi/.github/.github/workflows/).
+- Required workflows -- [.github/workflows/](.github/workflows).
 
 ## How Defaults Work
 
