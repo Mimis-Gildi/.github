@@ -1,0 +1,2 @@
+# .github
+Mímis Gildi Covenant
