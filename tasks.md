@@ -12,7 +12,7 @@
   - [x] `.github/messages/`
   - [x] local workflow test
 - [ ] Propagate trunk
-  - [ ] Test `greeting` in `riddle-me-this`
+  - [x] Test `greeting` in `riddle-me-this`
   - [ ] ToDo: ...
 - [ ] ToDo: ...
 
