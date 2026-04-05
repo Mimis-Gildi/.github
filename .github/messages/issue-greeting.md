@@ -1,4 +1,6 @@
-Welcome to **Mímis Gildi**! Thanks for opening an issue.
+Welcome to **Mímis Gildi**! 
 
-If you'd like to contribute, check the repo's `CONTRIBUTING.md` for guidance.
+Thanks for opening this issue. 
+If you'd like to contribute, 
+check the repo's `CONTRIBUTING.md` for guidance.
 Questions? Ping `riddler9297` on Discord.
