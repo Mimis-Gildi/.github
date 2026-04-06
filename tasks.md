@@ -17,6 +17,7 @@
   - [x] Contributing
   - [x] Support
   - [x] Security
+  - [x] Issue and PR
   - [ ] ToDo: ...
 - [ ] ToDo: ...
 
@@ -34,4 +35,4 @@
 ## Templates
 
 - [x] `.github/ISSUE_TEMPLATE/` -- default issue templates for all repos
-- [ ] `.github/PULL_REQUEST_TEMPLATE.md` -- default PR template for all repos
+- [x] `.github/PULL_REQUEST_TEMPLATE.md` -- default PR template for all repos
