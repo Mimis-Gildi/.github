@@ -3,27 +3,29 @@ _See beyond the veil of ignorance..._
 
 > *"It is impossible for a person to learn what he thinks he already knows."* -- Epictetus
 
-# Mímis Gildi
-
+<table>
+<tr>
+<td valign="top">
+<blockquote>
+<i>"Hast thou a friend whom thou trustest well,<br/>
+from whom thou cravest good?<br/>
+Share thy mind with him,<br/>
+gifts exchange with him,<br/>
+fare to find him oft."</i><br/><br/>
+-- Hávamál, st. 44,<br/>
+Poetic Edda (trans. Bellows)
+</blockquote>
+</td>
+<td valign="top">
 As we've come the young and old to Mímisbrunnr<br/>
-and gather here at the root of Yggdrasil...
-
-> *"Hast thou a friend whom thou trustest well,<br/>
-> from whom thou cravest good?<br/>
-> Share thy mind with him,<br/>
-> gifts exchange with him,<br/>
-> fare to find him oft."*<br/><br/>
-> -- Hávamál, st. 44,<br/>
-> Poetic Edda<br/>
-> (trans. Bellows)
-
-## The Well
-
+and gather here at the root of Yggdrasil...<br/><br/>
 Odin gave an eye for a drink from Mímir's well.<br/>
-Wisdom costs something. _Everything._<br/>
-You build, you fail, you learn, you teach.
-
+Wisdom costs something. <i>Everything.</i><br/>
+You build, you fail, you learn, you teach.<br/><br/>
 Welcome to our guild.
+</td>
+</tr>
+</table>
 
 ## The Tree
 
