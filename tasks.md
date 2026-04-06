@@ -12,7 +12,8 @@
   - [x] `.github/messages/`
   - [x] local workflow test
 - [ ] Propagate trunk
-  - [x] Test `greeting` in `riddle-me-this`
+  - [x] Test `greeting` in `mcp-total-recall`
+  - [x] Code of Conduct 
   - [ ] ToDo: ...
 - [ ] ToDo: ...
 
@@ -21,7 +22,7 @@
 ## Community Health Files
 
 - [ ] `profile/README.md` -- org profile visible on GitHub org page
-- [ ] `CODE_OF_CONDUCT.md` -- org-wide default
+- [x] `CODE_OF_CONDUCT.md` -- org-wide default
 - [ ] `CONTRIBUTING.md` -- org-wide default
 - [ ] `SECURITY.md` -- org-wide default
 - [ ] `SUPPORT.md` -- org-wide default
