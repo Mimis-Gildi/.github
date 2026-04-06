@@ -1,7 +1,7 @@
 {
   "name": "Actions Prune",
   "description": "Prune old workflow runs and orphaned caches on every push. Calls the shared prune workflow from fluffle.",
-  "iconName": "scissors",
+  "iconName": "octicon workflow",
   "categories": [
     "Automation"
   ]

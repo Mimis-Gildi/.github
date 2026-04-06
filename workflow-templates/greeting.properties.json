@@ -1,7 +1,7 @@
 {
   "name": "Welcome New Contributors",
   "description": "Greet first-time contributors on issues and pull requests. Calls the shared greeting workflow from fluffle.",
-  "iconName": "handshake",
+  "iconName": "octicon smiley",
   "categories": [
     "Community"
   ]
