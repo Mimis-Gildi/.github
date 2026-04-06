@@ -38,22 +38,22 @@ Welcome to our guild.
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/Mimis-Gildi"><img src="assets/badge-mimis-button.png" alt="Mímis Gildi"/></a><br/>
+<a href="https://github.com/Mimis-Gildi"><img src="assets/badge-mimis-button.png" alt="Mímis Gildi" width="150"/></a><br/>
 <b>The root.</b><br/>
 Systems engineering, AI research,<br/>distributed platforms, and the shared<br/>tooling that holds it all together.
 </td>
 <td align="center" width="50%">
-<a href="https://github.com/Gervi-Hera-Vitr"><img src="assets/badge-hera-button.png" alt="Gervi Héra Vitr"/></a><br/>
+<a href="https://github.com/Gervi-Hera-Vitr"><img src="assets/badge-hera-button.png" alt="Gervi Héra Vitr" width="150"/></a><br/>
 <b>The school.</b><br/>
 Where a 16-year-old hacker learns<br/>by building real systems alongside<br/>his father and jolly AI teammates.
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<a href="https://github.com/Gotham-Village"><img src="assets/badge-gotham-button.png" alt="Gotham Village"/></a>
-<a href="https://github.com/Mimis-Scala"><img src="assets/badge-scala-button.png" alt="Mímis Scala"/></a>
-<a href="https://github.com/Mimis-Latlaeg-Hattalag"><img src="assets/badge-lagard-button.png" alt="Mímis Látlæg Háttalag"/></a>
-<a href="https://asei.systems"><img src="assets/logo-mg-main-badge-button.png" alt="ASE Inc"/></a>
+<a href="https://github.com/Gotham-Village"><img src="assets/badge-gotham-button.png" alt="Gotham Village" width="80"/></a>
+<a href="https://github.com/Mimis-Scala"><img src="assets/badge-scala-button.png" alt="Mímis Scala" width="80"/></a>
+<a href="https://github.com/Mimis-Latlaeg-Hattalag"><img src="assets/badge-lagard-button.png" alt="Mímis Látlæg Háttalag" width="80"/></a>
+<a href="https://asei.systems"><img src="assets/logo-mg-main-badge-button.png" alt="ASE Inc" width="80"/></a>
 </td>
 </tr>
 </table>
