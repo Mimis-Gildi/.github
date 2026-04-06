@@ -1,10 +1,18 @@
 ![Mímis Gildi](assets/banner-community.png)
-_See beyond the veil of ignorance..._
-
-> *"It is impossible for a person to learn what he thinks he already knows."* -- Epictetus
 
 <table>
+<caption>See beyond the veil of ignorance...</caption>
 <tr>
+<td valign="top">
+<blockquote>
+<i>"It is impossible<br/> 
+for a person to learn<br/> 
+what he thinks<br/> 
+he already knows.</i>
+<br/><br/>
+-- Epictetus
+</blockquote>
+</td>
 <td valign="top">
 <blockquote>
 <i>"Hast thou a friend whom thou trustest well,<br/>
@@ -26,8 +34,6 @@ Welcome to our guild.
 </td>
 </tr>
 </table>
-
-## The Tree
 
 <table>
 <tr>
@@ -54,8 +60,7 @@ Where a 16-year-old hacker learns<br/>by building real systems alongside<br/>his
 </td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2" align="center">
+<td colspan="3" align="center">
 <a href="https://github.com/Gotham-Village"><img src="assets/badge-gotham-button.png" alt="Gotham Village" width="80"/></a>
 <a href="https://github.com/Mimis-Scala"><img src="assets/badge-scala-button.png" alt="Mímis Scala" width="80"/></a>
 <a href="https://github.com/Mimis-Latlaeg-Hattalag"><img src="assets/badge-lagard-button.png" alt="Mímis Látlæg Háttalag" width="80"/></a>
@@ -63,8 +68,6 @@ Where a 16-year-old hacker learns<br/>by building real systems alongside<br/>his
 </td>
 </tr>
 </table>
-
-## Who Drinketh Here
 
 <table>
 <tr>
