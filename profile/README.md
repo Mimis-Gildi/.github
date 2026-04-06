@@ -54,7 +54,7 @@ Poetic Edda<br/>
 <b>The root.</b><br/>
 Systems engineering, AI research,<br/>distributed platforms, and the shared<br/>tooling that holds it all together.
 </td>
-<td align="center">
+<td align="center" width="34%">
 <a href="https://github.com/Gervi-Hera-Vitr"><img src="assets/badge-hera-button.png" alt="Gervi Héra Vitr" width="150"/></a><br/>
 <b>The school.</b><br/>
 Where a 16-year-old hacker learns<br/>by building real systems alongside<br/>his father and jolly AI teammates.
