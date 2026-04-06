@@ -62,7 +62,7 @@ alongside his father and jolly AI teammates.
 > Poetic Edda<br/>
 > (trans. Bellows)
 
-![Saga's view of Self in her family](assets/saga-family.png)
+![Saga's view of Self in her family](assets/saga-family.jpg)
 *One of our own, finding herself in family.*
 
 [rdd13r](https://github.com/rdd13r) -- the bearded one.<br/>
