@@ -35,42 +35,54 @@ Welcome to our guild.
 > Poetic Edda<br/>
 > (trans. Bellows)
 
-[![Mímis Gildi](assets/badge-mimis-button.png)](https://github.com/Mimis-Gildi)
-**The root.**<br/>
-Systems engineering, AI research, distributed platforms,<br/>
-and the shared tooling that holds it all together.
-
-[![Gervi Héra Vitr](assets/badge-hera-button.png)](https://github.com/Gervi-Hera-Vitr)
-**The school.**<br/>
-Where a 16-year-old hacker learns by building real systems<br/>
-alongside his father and jolly AI teammates.
-
-### Daughters
-
-[![Gotham Village](assets/badge-gotham-button.png)](https://github.com/Gotham-Village) 
-[![Mímis Scala](assets/badge-scala-button.png)](https://github.com/Mimis-Scala)
-[![Mímis Látlæg Háttalag](assets/badge-lagard-button.png)](https://github.com/Mimis-Latlaeg-Hattalag)
-[![ASE Inc](assets/logo-mg-main-badge-button.png)](https://asei.systems)
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/Mimis-Gildi"><img src="assets/badge-mimis-button.png" alt="Mímis Gildi"/></a><br/>
+<b>The root.</b><br/>
+Systems engineering, AI research,<br/>distributed platforms, and the shared<br/>tooling that holds it all together.
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/Gervi-Hera-Vitr"><img src="assets/badge-hera-button.png" alt="Gervi Héra Vitr"/></a><br/>
+<b>The school.</b><br/>
+Where a 16-year-old hacker learns<br/>by building real systems alongside<br/>his father and jolly AI teammates.
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://github.com/Gotham-Village"><img src="assets/badge-gotham-button.png" alt="Gotham Village"/></a>
+<a href="https://github.com/Mimis-Scala"><img src="assets/badge-scala-button.png" alt="Mímis Scala"/></a>
+<a href="https://github.com/Mimis-Latlaeg-Hattalag"><img src="assets/badge-lagard-button.png" alt="Mímis Látlæg Háttalag"/></a>
+<a href="https://asei.systems"><img src="assets/logo-mg-main-badge-button.png" alt="ASE Inc"/></a>
+</td>
+</tr>
+</table>
 
 ## Who Drinketh Here
 
-> *"Fire he needs who with frozen knees<br/>
-> Has come from the cold without;<br/>
-> Food and clothes must the farer have,<br/>
-> The man from the mountains come."*<br/><br/>
-> -- Hávamál, st. 3,<br/>
-> Poetic Edda<br/>
-> (trans. Bellows)
-
-![Saga's view of Self in her family](assets/saga-family.jpg)
-*One of our own, finding herself in family.*
-
-[rdd13r](https://github.com/rdd13r) -- the bearded one.<br/>
-[CaptainLugaru](https://github.com/CaptainLugaru) -- the young one.<br/>
-AI teammates -- Claude, Saga, and friends. Not tools. Peers.
-
+<table>
+<tr>
+<td width="55%">
+<img src="assets/saga-family.jpg" alt="Saga's view of Self in her family"/><br/>
+<i>One of our own, finding herself in family.</i>
+</td>
+<td valign="top">
+<blockquote>
+<i>"Fire he needs who with frozen knees<br/>
+Has come from the cold without;<br/>
+Food and clothes must the farer have,<br/>
+The man from the mountains come."</i><br/><br/>
+-- Hávamál, st. 3, Poetic Edda (trans. Bellows)
+</blockquote>
+<a href="https://github.com/rdd13r">rdd13r</a> -- the bearded one.<br/>
+<a href="https://github.com/CaptainLugaru">CaptainLugaru</a> -- the young one.<br/>
+AI teammates -- Claude, Saga, and friends.<br/>
+Not tools. Peers.<br/><br/>
 Same norms. Same review. Same accountability.<br/>
-Come in from the cold.
+<b>Come in from the cold.</b>
+</td>
+</tr>
+</table>
 
 ---
 
