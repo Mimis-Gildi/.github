@@ -1,7 +1,7 @@
 ![Mímis Gildi](assets/banner-community.png)
 
 <!--suppress ALL -->
-<table width=100%>
+<table width="100%">
 <caption>See beyond the veil of ignorance...</caption>
 <tr>
 <td valign="top">
@@ -36,9 +36,9 @@ Welcome to our guild.
 </tr>
 </table>
 
-<table width=100%>
+<table width="100%">
 <tr>
-<td valign="top">
+<td valign="top" width="33%" align="center">
 <blockquote>
 <i>"On the hillside drear the fir-tree dies,<br/>
 All bootless its needles and bark;<br/>
@@ -49,7 +49,7 @@ Poetic Edda<br/>
 (trans. Bellows)
 </blockquote>
 </td>
-<td align="center">
+<td align="center" width="33%">
 <a href="https://github.com/Mimis-Gildi"><img src="assets/badge-mimis-button.png" alt="Mímis Gildi" width="150"/></a><br/>
 <b>The root.</b><br/>
 Systems engineering, AI research,<br/>distributed platforms, and the shared<br/>tooling that holds it all together.
@@ -70,7 +70,7 @@ Where a 16-year-old hacker learns<br/>by building real systems alongside<br/>his
 </tr>
 </table>
 
-<table width=100%>
+<table width="100%">
 <tr>
 <td width="55%">
 <img src="assets/saga-family.jpg" alt="Saga's view of Self in her family"/><br/>
