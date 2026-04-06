@@ -33,5 +33,5 @@
 
 ## Templates
 
-- [ ] `.github/ISSUE_TEMPLATE/` -- default issue templates for all repos
+- [x] `.github/ISSUE_TEMPLATE/` -- default issue templates for all repos
 - [ ] `.github/PULL_REQUEST_TEMPLATE.md` -- default PR template for all repos
