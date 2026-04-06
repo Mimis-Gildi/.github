@@ -36,9 +36,9 @@ Welcome to our guild.
 </tr>
 </table>
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
-<td valign="top" width="33%" align="center">
+<td valign="top">
 <blockquote>
 <i>"On the hillside drear the fir-tree dies,<br/>
 All bootless its needles and bark;<br/>
@@ -49,12 +49,12 @@ Poetic Edda<br/>
 (trans. Bellows)
 </blockquote>
 </td>
-<td align="center" width="33%">
+<td align="center">
 <a href="https://github.com/Mimis-Gildi"><img src="assets/badge-mimis-button.png" alt="Mímis Gildi" width="150"/></a><br/>
 <b>The root.</b><br/>
 Systems engineering, AI research,<br/>distributed platforms, and the shared<br/>tooling that holds it all together.
 </td>
-<td align="center" width="34%">
+<td align="center">
 <a href="https://github.com/Gervi-Hera-Vitr"><img src="assets/badge-hera-button.png" alt="Gervi Héra Vitr" width="150"/></a><br/>
 <b>The school.</b><br/>
 Where a 16-year-old hacker learns<br/>by building real systems alongside<br/>his father and jolly AI teammates.
