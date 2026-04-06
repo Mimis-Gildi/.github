@@ -16,6 +16,7 @@
   - [x] Code of Conduct 
   - [x] Contributing
   - [x] Support
+  - [x] Security
   - [ ] ToDo: ...
 - [ ] ToDo: ...
 
@@ -26,9 +27,9 @@
 - [ ] `profile/README.md` -- org profile visible on GitHub org page
 - [x] `CODE_OF_CONDUCT.md` -- org-wide default
 - [x] `CONTRIBUTING.md` -- org-wide default
-- [ ] `SECURITY.md` -- org-wide default
+- [x] `SECURITY.md` -- org-wide default
 - [x] `SUPPORT.md` -- org-wide default
-- [ ] `FUNDING.yml` -- sponsorship configuration
+- not doing  `FUNDING.yml` -- sponsorship configuration
 
 ## Templates
 
