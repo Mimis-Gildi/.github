@@ -1,6 +1,7 @@
 ![Mímis Gildi](assets/banner-community.png)
 
-<table>
+<!--suppress ALL -->
+<table width=100%>
 <caption>See beyond the veil of ignorance...</caption>
 <tr>
 <td valign="top">
@@ -35,7 +36,7 @@ Welcome to our guild.
 </tr>
 </table>
 
-<table>
+<table width=100%>
 <tr>
 <td valign="top">
 <blockquote>
@@ -69,7 +70,7 @@ Where a 16-year-old hacker learns<br/>by building real systems alongside<br/>his
 </tr>
 </table>
 
-<table>
+<table width=100%>
 <tr>
 <td width="55%">
 <img src="assets/saga-family.jpg" alt="Saga's view of Self in her family"/><br/>
