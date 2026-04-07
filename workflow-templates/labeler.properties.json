@@ -1,0 +1,8 @@
+{
+  "name": "Label Pull Requests",
+  "description": "Auto-label PRs based on changed files using .github/labeler.yml config. Calls the shared labeler workflow from fluffle.",
+  "iconName": "octicon tag",
+  "categories": [
+    "Automation"
+  ]
+}
