@@ -1,0 +1,8 @@
+{
+  "name": "War Canary",
+  "description": "Introspect and upgrade the self-hosted runner toolchain. Calls the shared runner-introspector workflow from fluffle.",
+  "iconName": "octicon server",
+  "categories": [
+    "Automation"
+  ]
+}
