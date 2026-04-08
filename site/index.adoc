@@ -1,0 +1,8 @@
+---
+layout: home
+title: "Mímis Gildi"
+---
+
+Welcome to Mímis Gildi -- see beyond the veil of ignorance.
+
+Organization-wide defaults, community health files, workflow templates, and contributor guidance.
