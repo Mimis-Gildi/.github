@@ -1,0 +1,8 @@
+{
+  "name": "Stales Labeler",
+  "description": "Mark and close stale issues and PRs weekly. Calls the shared stales workflow from fluffle.",
+  "iconName": "octicon clock",
+  "categories": [
+    "Automation"
+  ]
+}
