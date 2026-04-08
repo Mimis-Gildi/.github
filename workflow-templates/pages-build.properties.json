@@ -1,0 +1,8 @@
+{
+  "name": "Build Site",
+  "description": "Build Jekyll site on PRs to verify it compiles. Calls the shared pages-build workflow from fluffle.",
+  "iconName": "octicon tools",
+  "categories": [
+    "Pages"
+  ]
+}

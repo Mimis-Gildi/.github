@@ -1,0 +1,8 @@
+{
+  "name": "Publish Site",
+  "description": "Build Jekyll site and deploy to GitHub Pages. Calls the shared pages workflows from fluffle.",
+  "iconName": "octicon rocket",
+  "categories": [
+    "Pages"
+  ]
+}
