@@ -1,0 +1,8 @@
+{
+  "name": "Release Publisher",
+  "description": "Tag and publish GitHub Release on PR merge to main. Calls the shared releaser workflow from fluffle.",
+  "iconName": "octicon rocket",
+  "categories": [
+    "Automation"
+  ]
+}
