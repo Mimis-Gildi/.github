@@ -1,0 +1,8 @@
+{
+  "name": "Version Incrementer",
+  "description": "Auto-increment version on branch create (major), PR (minor), and push (patch). Calls the shared incrementer workflow from fluffle.",
+  "iconName": "octicon tag",
+  "categories": [
+    "Automation"
+  ]
+}
