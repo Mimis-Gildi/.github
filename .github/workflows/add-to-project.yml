@@ -8,7 +8,7 @@ on:
 jobs:
   add-to-project:
     uses: Mimis-Gildi/fluffle/.github/workflows/add-to-project.yml@main
-    with:
+#    with:
       # publishing | warpath | yggdrasil | trails | frumgerdir | viskr | mosaify | family
       # closed:  valorem | voyage | marketing | experiment | takeone
       # default (absent): warpath
