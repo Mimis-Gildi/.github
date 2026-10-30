@@ -1,0 +1,9 @@
+{
+  "name": "Add to Project",
+  "description": "Adds opened and reopened issues to a Project. Calls the shared Project Auto-Add workflow from fluffle.",
+  "iconName": "octicon project",
+  "categories": [
+    "Automation",
+    "SDLC"
+  ]
+}

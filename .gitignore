@@ -58,3 +58,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+
+### Project specific
+/site/Gemfile.lock

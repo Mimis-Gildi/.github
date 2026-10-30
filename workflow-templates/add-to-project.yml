@@ -1,0 +1,17 @@
+name: Add to Project
+run-name: "Add Item to Project, run on ${{ github.repository }} by ${{ github.actor }} with ${{ github.event_name }} (Attempt ${{ github.run_attempt }})"
+
+on:
+  issues:
+    types: [opened, reopened]
+
+jobs:
+  add-to-project:
+    uses: Mimis-Gildi/fluffle/.github/workflows/add-to-project.yml@main
+    with:
+      # publishing | warpath | yggdrasil | trails | frumgerdir | viskr | mosaify | family
+      # closed:  valorem | voyage | marketing | experiment | takeone
+      # default (absent): warpath
+      project: publishing
+    secrets:
+      ADD_TO_PROJECT: ${{ secrets.ADD_TO_PROJECT }}
